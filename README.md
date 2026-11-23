@@ -1,5 +1,7 @@
 # NientumGallery 游戏内鉴赏 Mod
 
+English: [README.en.md](README.en.md)
+
 《Nientum - Op.ZERO》游戏内 CG / 立绘 / 音乐鉴赏室，BepInEx 5 + Harmony 实现，入口挂在标题界面，所有内容直接读取游戏本体资源（Addressables CG、FMOD 音乐、Spine 立绘）。
 
 本仓库只包含 Mod 源码。不包含游戏本体、CG、立绘、音乐、字体或任何提取资源。
