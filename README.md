@@ -51,7 +51,7 @@ cl /LD /O2 /EHsc NientumFlac.cpp /Fe:NientumFlac.dll
 
 ## 发布包
 
-Release 提供 `NientumGallery_Mod_20261118_no-music.zip`：`NientumGallery.dll` + `NientumGalleryAssets`（CG、缩略图、字体、UI、FLAC 解码器）+ 内置 BepInEx 5.4 框架，解压覆盖游戏根目录即可。已按要求移除 `NientumGalleryAssets\music`，FMOD 缺失曲目的 FLAC 回退会不可用。源码构建仍需本机安装 BepInEx 5.4。
+Release 提供 `NientumGallery_Mod_20261118_no-music.zip`：`NientumGallery.dll` + `NientumGalleryAssets`（CG、缩略图、字体、UI、FLAC 解码器）+ 内置 **BepInEx 5.4.23.6 前置**（winhttp.dll、doorstop、BepInEx core），解压覆盖游戏根目录即可。已按要求移除 `NientumGalleryAssets\music`，FMOD 缺失曲目的 FLAC 回退会不可用。源码构建仍需本机安装 BepInEx 5.4。
 
 ## 版权与下架声明
 
